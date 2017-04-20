@@ -1,21 +1,24 @@
 <!DOCTYPE html>
-<html>
-<head lang="en">
-    <meta charset="UTF-8">
-    <title>html5</title>
+<html lang="zh-cn">
+<head>
+    <meta charset="utf-8">
+    <title>任务一</title>
     <style type="text/css">
-    .theme{
-      display: block;
-      width: 200px;
-      font-size: 30px;
-      margin: 100px auto;
-    }
+        .box{margin:0 auto;}
+        .piece{padding:15%;margin:1.6%;background-color:orange;border-radius:10%;float:left;}
     </style>
 </head>
 <body>
-<div class="theme">
-  Hello, world.
-</div>
-
+    <div class="box">
+        <div class="piece"></div>
+	    <div class="piece"></div>
+	    <div class="piece"></div>
+	    <div class="piece"></div>
+	    <div class="piece"></div>
+	    <div class="piece"></div>
+	    <div class="piece"></div>
+	    <div class="piece"></div>
+	    <div class="piece"></div>
+    </div>	
 </body>
 </html>
